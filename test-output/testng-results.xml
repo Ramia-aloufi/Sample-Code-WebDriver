@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-20T09:24:50 AST" name="Default suite" finished-at="2022-07-20T09:25:30 AST" duration-ms="40709">
+    <groups>
+    </groups>
+    <test started-at="2022-07-20T09:24:50 AST" name="Default test" finished-at="2022-07-20T09:25:30 AST" duration-ms="40709">
+      <class name="com.ram.InvokeChromePage">
+        <test-method signature="chromePage()[pri:0, instance:com.ram.InvokeChromePage@6f27a732]" started-at="2022-07-20T09:24:50 AST" name="chromePage" finished-at="2022-07-20T09:25:30 AST" duration-ms="40619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromePage -->
+      </class> <!-- com.ram.InvokeChromePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
