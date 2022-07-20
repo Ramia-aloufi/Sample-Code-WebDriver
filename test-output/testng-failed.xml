@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.ram.InvokeFireFoxPage">
+      <class name="com.ram.InvokeChromePage">
         <methods>
-          <include name="firfoxPage"/>
+          <include name="chromePage"/>
         </methods>
-      </class> <!-- com.ram.InvokeFireFoxPage -->
+      </class> <!-- com.ram.InvokeChromePage -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
