@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-07-20T09:24:50 AST" name="Default suite" finished-at="2022-07-20T09:25:30 AST" duration-ms="40709">
+  <suite started-at="2022-07-20T11:03:18 AST" name="Default suite" finished-at="2022-07-20T11:03:59 AST" duration-ms="40750">
     <groups>
     </groups>
-    <test started-at="2022-07-20T09:24:50 AST" name="Default test" finished-at="2022-07-20T09:25:30 AST" duration-ms="40709">
-      <class name="com.ram.InvokeChromePage">
-        <test-method signature="chromePage()[pri:0, instance:com.ram.InvokeChromePage@6f27a732]" started-at="2022-07-20T09:24:50 AST" name="chromePage" finished-at="2022-07-20T09:25:30 AST" duration-ms="40619" status="PASS">
+    <test started-at="2022-07-20T11:03:18 AST" name="Default test" finished-at="2022-07-20T11:03:59 AST" duration-ms="40750">
+      <class name="com.ram.InvokeFireFoxPage">
+        <test-method signature="firfoxPage()[pri:0, instance:com.ram.InvokeFireFoxPage@6f27a732]" started-at="2022-07-20T11:03:18 AST" name="firfoxPage" finished-at="2022-07-20T11:03:59 AST" duration-ms="40597" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- chromePage -->
-      </class> <!-- com.ram.InvokeChromePage -->
+        </test-method> <!-- firfoxPage -->
+      </class> <!-- com.ram.InvokeFireFoxPage -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
